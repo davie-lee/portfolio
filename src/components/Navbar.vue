@@ -1,5 +1,6 @@
 <template>
   <div>
+    <vue-headful title="About Davie Lee" description="About Davie"/>
     <nav class="navbar is-transparent">
       <div class="container">
         <div class="navbar-brand">
